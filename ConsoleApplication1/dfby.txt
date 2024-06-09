@@ -1,0 +1,1 @@
+system("start https://oj.czos.cn/");
